@@ -27,8 +27,7 @@
 ---
 
 ### 📌 Pinned Projects
-🌟 [**Finance Tracker**](https://github.com/aiswarya-vijayakumar/finance-tracker) - Manage personal finances  
-🌟 [**React Playground**](https://github.com/aiswarya-vijayakumar/react-playground) - Experimenting with React  
+🌟 [**Finance Tracker**](https://github.com/aiswarya-vijayakumar/finance-tracker) - Experimenting with React
 
 ---
 
