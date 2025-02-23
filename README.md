@@ -2,7 +2,6 @@
 
 👩‍💻 **Frontend Developer** | Passionate about **scalable & sleek UIs**  
 📅 **5.5+ years experience** | **Angular | React | TypeScript**  
-💡 **Currently:** Improving **backend skills with Node.js & Express**  
 🎯 **Goal:** Master **frontend engineering** while expanding backend expertise  
 
 ---
@@ -20,7 +19,7 @@
 
 ### 🛠 Tech Stack
 🔹 **Frontend:** Angular, TypeScript, React.js, Vue.js, JavaScript  
-🔹 **Backend:** Node.js, Express.js, Spring Boot  
+🔹 **Backend:** Node.js, Express.js
 🔹 **Database:** MongoDB, MySQL  
 🔹 **Styling:** TailwindCSS, Material UI  
 
