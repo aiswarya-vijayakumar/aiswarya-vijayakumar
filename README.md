@@ -26,7 +26,8 @@
 ---
 
 ### 📌 Pinned Projects
-🌟 [**Finance Tracker**](https://github.com/aiswarya-vijayakumar/finance-tracker) - Experimenting with React
+- [**Finance Tracker**](https://github.com/aiswarya-vijayakumar/finance-tracker) - Experimenting with React
+- [**Travel Planner**](https://github.com/aiswarya-vijayakumar/travel-planner) - Exploring Angular 19
 
 ---
 
