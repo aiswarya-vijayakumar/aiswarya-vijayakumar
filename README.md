@@ -27,6 +27,7 @@
 
 ### 📌 Pinned Projects
 - [**Finance Tracker**](https://github.com/aiswarya-vijayakumar/finance-tracker) - Experimenting with React
+- [**Todo**](https://github.com/aiswarya-vijayakumar/react-playground/tree/main/todo-app) - Basic Todo App in react
 - [**Travel Planner**](https://github.com/aiswarya-vijayakumar/travel-planner) - Exploring Angular 19
 
 ---
